@@ -1,0 +1,2 @@
+# database migration
+什么是数据库的迁移？从chatgpt上我们可以看到，database migration是一种对数据库结构进行版本化管理的过程，主要用来追踪数据库结构的变化。每次数据库的结构变更都会创建一个对应的Migration文件，用来回滚或者重新应用。
